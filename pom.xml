@@ -78,6 +78,8 @@
       		<url>http://52.66.200.221:8090/manager/text</url>
       		<server>TomcatServer</server>
       		<path>/sixthdemoproject</path>
+			<username>admin</username>
+			<password>s3cret</password>
    		  </configuration>
         </plugin>
 		
