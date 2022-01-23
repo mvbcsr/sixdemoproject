@@ -79,7 +79,7 @@
       		<server>TomcatServer</server>
       		<path>/sixthdemoproject</path>
 			<username>admin</username>
-			<password>admin</password>
+			<password>s3cret</password>
    		  </configuration>
         </plugin>
 		
